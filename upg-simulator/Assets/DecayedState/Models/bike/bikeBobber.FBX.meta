@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: c679590c5bb4656429c589a8decf1bf2
+timeCreated: 1503776459
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone001
+    100004: Bone002
+    100006: chain
+    100008: chassis
+    100010: Dummy001
+    100012: frontSuspension
+    100014: frontWheel
+    100016: IK Chain001
+    100018: Object001
+    100020: pendulum
+    100022: rearSuspenDown
+    100024: rearSuspenUpper
+    100026: rearWheel
+    100028: steeringWheel
+    100030: wires
+    400000: //RootNode
+    400002: Bone001
+    400004: Bone002
+    400006: chain
+    400008: chassis
+    400010: Dummy001
+    400012: frontSuspension
+    400014: frontWheel
+    400016: IK Chain001
+    400018: Object001
+    400020: pendulum
+    400022: rearSuspenDown
+    400024: rearSuspenUpper
+    400026: rearWheel
+    400028: steeringWheel
+    400030: wires
+    2300000: chassis
+    2300002: frontSuspension
+    2300004: frontWheel
+    2300006: Object001
+    2300008: pendulum
+    2300010: rearSuspenDown
+    2300012: rearSuspenUpper
+    2300014: rearWheel
+    2300016: steeringWheel
+    2300018: wires
+    3300000: chassis
+    3300002: frontSuspension
+    3300004: frontWheel
+    3300006: Object001
+    3300008: pendulum
+    3300010: rearSuspenDown
+    3300012: rearSuspenUpper
+    3300014: rearWheel
+    3300016: steeringWheel
+    3300018: wires
+    4300000: chassis
+    4300002: pendulum
+    4300004: chain
+    4300006: steeringWheel
+    4300008: frontSuspension
+    4300010: frontWheel
+    4300012: rearSuspenUpper
+    4300014: rearSuspenDown
+    4300016: wires
+    4300018: Object001
+    4300020: rearWheel
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: chain
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
